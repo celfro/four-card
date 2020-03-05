@@ -86,23 +86,20 @@ div img {
     display: flex;
     justify-content: center;
     height: 600px;
-    margin-bottom: 10vh;
   }
 
   .row-1 {
-    display: flex;
-    align-items: center;
+
+    margin-top: 150px;
   }
 
   .row-2{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 3vw;
+    margin: 0 1vw;
   }
   .row-3 {
-    display: flex;
-    align-items: center;
+    margin-top: 150px;
   }
-
 }
